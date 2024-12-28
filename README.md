@@ -6,7 +6,7 @@
 - 👋 Hi, I’m @PDXzst
 - 👀 I'm interested in robotic.
 - 🌱 I'll be sharing my code from time to time.
-- 💞️ Get in touch with me by email --- zst1677476115@qq.com
+- 💞️ Get in touch with me by email --- zst1677476115@163.com
 
 - 📫 我将不定时更新一些近期使用的demo
 - 😄 有时候我也会分享一些教程
